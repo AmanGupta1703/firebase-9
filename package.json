@@ -1,0 +1,16 @@
+{
+  "name": "firebase-net-ninja",
+  "version": "1.0.0",
+  "description": "A Firebase App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
